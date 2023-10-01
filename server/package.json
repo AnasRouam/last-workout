@@ -10,7 +10,7 @@
   "name": "server",
   "version": "1.0.0",
   "description": "Server to send data to ui",
-  "main": "index.js",
+  "main": "./src/app.js",
   "scripts": {
     "test": "test",
     "dev": "nodemon"

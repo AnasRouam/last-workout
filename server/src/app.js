@@ -55,3 +55,6 @@ app.post('/addExercise', async (req, res) => {
 app.listen(PORT, () => {
     console.log('listening on port ' + PORT);
 });
+
+
+module.exports = app;
